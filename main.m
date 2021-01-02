@@ -74,7 +74,7 @@ legend( 'Lesion 1 ', ....
             'FontSize', 16);
 xlim([1 1000]); ylim([0 100]);
 
-saveas(gcf, strcat('D:\PhD\Code\paradox\figures\','figure_2.tiff'))
+saveas(gcf, strcat('~\figures\','figure_2.tiff'))
 
 
 %% Figure 3: Free Energy 
